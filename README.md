@@ -6,3 +6,4 @@
 5. Camera-LiDAR Calibration https://github.com/Deephome/Awesome-LiDAR-Camera-Calibration
 6. livox_ros_driver_for_R2LIVE https://github.com/ziv-lin/livox_ros_driver_for_R2LIVE
 7. R3LIVE https://github.com/hku-mars/r3live#21-strong-robustness-in-various-challenging-scenarios
+     - https://blog.csdn.net/RuningLING/article/details/119419078 (LZ4_whatever error)
